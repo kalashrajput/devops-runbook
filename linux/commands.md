@@ -14,3 +14,6 @@
 - `ping host` — test connectivity
 - `curl -I url` — fetch headers only
 - `ss -tulnp` — show open ports
+## Disk Management
+- df -h  — disk usage human readable
+- du -sh dir — folder size
