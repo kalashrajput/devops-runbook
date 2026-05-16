@@ -8,3 +8,4 @@ A personal reference guide for DevOps concepts, commands, and workflows.
 - Git Workflow
 
 Maintained by: Kalash
+> Note: This runbook is actively maintained.
