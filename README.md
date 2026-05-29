@@ -9,4 +9,3 @@ A personal reference guide for DevOps concepts, commands, and workflows.
 
 Maintained by: Kalash
 > Note: This runbook is actively maintained.
-## Wrong Section
